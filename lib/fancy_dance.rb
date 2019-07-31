@@ -1,1 +1,3 @@
-module FancyD
+module FancyDance
+  module InstanceMethods
+end
